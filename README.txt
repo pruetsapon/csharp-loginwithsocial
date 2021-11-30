@@ -4,7 +4,7 @@ social-login is a login with facebook and google.
 
 Prerequisites:
 - Any IDE
-- .NET Core SDK 2.1.4
+- .NET SDK 5.0
 
 =====================================
 Development Environment
